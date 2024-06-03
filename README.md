@@ -1,3 +1,6 @@
+<h1>Learning to code</h1>
+https://www.youtube.com/watch?v=k0J6MeEfFAc&pp=ygUaVGVtcGxhdGUgaW50cm8ga2VyZW4gaGVrZXI%3D
+
 - 👋 Hi, I’m @Edukasicode
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
